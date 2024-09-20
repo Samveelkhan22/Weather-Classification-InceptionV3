@@ -1,0 +1,10 @@
+Activation 1,Activation 2,Validation Accuracy
+leakyrelu,relu,0.9085000157356262
+relu,leakyrelu,0.9070000052452087
+leakyrelu,gelu,0.9068999886512756
+leakyrelu,leakyrelu,0.90420001745224
+gelu,gelu,0.9027000069618225
+relu,relu,0.9020000100135803
+gelu,leakyrelu,0.9007999897003174
+relu,gelu,0.9004999995231628
+gelu,relu,0.8996999859809875
